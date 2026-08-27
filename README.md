@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0174-dungeon-game](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0174-dungeon-game) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0403-frog-jump](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0403-frog-jump) |
 | [0419-battleships-in-a-board](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0560-subarray-sum-equals-k](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0994-rotting-oranges](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0174-dungeon-game](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0174-dungeon-game) |
+| [0403-frog-jump](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0403-frog-jump) |
 ## Matrix
 |  |
 | ------- |
