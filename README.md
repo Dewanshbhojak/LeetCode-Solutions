@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 ## Divide and Conquer
 |  |
@@ -192,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
