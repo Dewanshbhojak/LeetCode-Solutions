@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0174-dungeon-game](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0174-dungeon-game) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0174-dungeon-game](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0174-dungeon-game) |
 | [0419-battleships-in-a-board](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
