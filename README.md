@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0174-dungeon-game](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0174-dungeon-game) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0403-frog-jump](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0403-frog-jump) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1095-find-in-mountain-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 ## Data Stream
