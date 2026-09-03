@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1603-design-parking-system](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 ## DP on Trees
 |  |
 | ------- |
@@ -234,8 +235,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [1603-design-parking-system](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
