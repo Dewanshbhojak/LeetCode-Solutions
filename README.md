@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0174-dungeon-game](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0174-dungeon-game) |
+| [0189-rotate-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0403-frog-jump) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
