@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0403-frog-jump) |
 | [0419-battleships-in-a-board](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0419-battleships-in-a-board) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Quicksort
 |  |
