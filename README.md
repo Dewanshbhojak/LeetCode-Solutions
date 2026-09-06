@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0403-frog-jump) |
 | [0419-battleships-in-a-board](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0447-number-of-boomerangs](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0447-number-of-boomerangs) |
 | [0560-subarray-sum-equals-k](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0447-number-of-boomerangs](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0447-number-of-boomerangs) |
 | [0560-subarray-sum-equals-k](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0447-number-of-boomerangs](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0447-number-of-boomerangs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
