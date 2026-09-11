@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0174-dungeon-game](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0447-number-of-boomerangs](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0447-number-of-boomerangs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Algorithm X
@@ -318,4 +321,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
