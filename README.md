@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0284-peeking-iterator](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0284-peeking-iterator) |
 | [0300-longest-increasing-subsequence](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0324-wiggle-sort-ii](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0403-frog-jump](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0403-frog-jump) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0284-peeking-iterator](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0284-peeking-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1603-design-parking-system](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1603-design-parking-system) |
@@ -353,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
