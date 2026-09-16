@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0284-peeking-iterator](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0284-peeking-iterator) |
+| [0287-find-the-duplicate-number](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0324-wiggle-sort-ii](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0403-frog-jump](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0403-frog-jump) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0189-rotate-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1095-find-in-mountain-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 ## Hamiltonian Path
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -359,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0284-peeking-iterator) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
