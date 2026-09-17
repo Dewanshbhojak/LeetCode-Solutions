@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1122-relative-sort-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
+| [1859-sorting-the-sentence](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 ## Quicksort
 |  |
 | ------- |
@@ -199,12 +200,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
+| [1859-sorting-the-sentence](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0127-word-ladder](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1859-sorting-the-sentence](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Design
 |  |
