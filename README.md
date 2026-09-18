@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0896-monotonic-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0980-unique-paths-iii](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1095-find-in-mountain-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0447-number-of-boomerangs) |
 | [0491-non-decreasing-subsequences](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0560-subarray-sum-equals-k](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1122-relative-sort-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0287-find-the-duplicate-number](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Number Theory
 |  |
 | ------- |
