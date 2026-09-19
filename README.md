@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0695-max-area-of-island](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [0797-all-paths-from-source-to-target](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0695-max-area-of-island](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [0797-all-paths-from-source-to-target](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Linked List
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0491-non-decreasing-subsequences) |
+| [0797-all-paths-from-source-to-target](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 ## Sliding Window
 |  |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0797-all-paths-from-source-to-target](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Greedy
 |  |
@@ -422,4 +426,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0797-all-paths-from-source-to-target](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
