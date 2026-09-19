@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0491-non-decreasing-subsequences](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0797-all-paths-from-source-to-target](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
