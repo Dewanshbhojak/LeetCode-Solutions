@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1859-sorting-the-sentence](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Design
 |  |
 | ------- |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [3498-reverse-degree-of-a-string](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
