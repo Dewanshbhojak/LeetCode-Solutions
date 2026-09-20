@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0048-rotate-image) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0189-rotate-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
