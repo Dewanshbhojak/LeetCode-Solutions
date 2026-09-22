@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0980-unique-paths-iii](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [1034-coloring-a-border](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1034-coloring-a-border) |
 | [1095-find-in-mountain-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1122-relative-sort-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0980-unique-paths-iii](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [1034-coloring-a-border](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1034-coloring-a-border) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Hash Table
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [1034-coloring-a-border](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1034-coloring-a-border) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Depth-First Search
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0695-max-area-of-island](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [1034-coloring-a-border](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1034-coloring-a-border) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Linked List
