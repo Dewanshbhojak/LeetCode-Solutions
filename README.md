@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0403-frog-jump) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Matrix
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1859-sorting-the-sentence](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Design
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Recursion
 |  |
 | ------- |
