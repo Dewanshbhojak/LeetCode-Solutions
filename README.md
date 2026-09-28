@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0468-validate-ip-address](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0468-validate-ip-address) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1859-sorting-the-sentence](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Topological Sort
 |  |
 | ------- |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Knapsack Problem
 |  |
 | ------- |
