@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0097-interleaving-string](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0174-dungeon-game](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0174-dungeon-game) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0127-word-ladder) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0051-n-queens) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Knapsack Problem
