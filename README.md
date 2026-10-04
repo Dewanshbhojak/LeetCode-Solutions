@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0491-non-decreasing-subsequences](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0523-continuous-subarray-sum](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0447-number-of-boomerangs) |
 | [0491-non-decreasing-subsequences](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0523-continuous-subarray-sum](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1122-relative-sort-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3904-smallest-stable-index-ii](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Breadth-First Search
