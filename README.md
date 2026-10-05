@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [0713-subarray-product-less-than-k](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0867-transpose-matrix](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0896-monotonic-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [3904-smallest-stable-index-ii](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Breadth-First Search
 |  |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0713-subarray-product-less-than-k](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1095-find-in-mountain-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 ## Data Stream
 |  |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Bidirectional Search
 |  |
