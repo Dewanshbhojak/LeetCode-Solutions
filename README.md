@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1034-coloring-a-border) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1462-course-schedule-iv) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Depth-First Search
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1034-coloring-a-border](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1034-coloring-a-border) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1462-course-schedule-iv) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Linked List
 |  |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0797-all-paths-from-source-to-target](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [1462-course-schedule-iv](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1462-course-schedule-iv) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Greedy
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1462-course-schedule-iv](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1462-course-schedule-iv) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Memoization
 |  |
