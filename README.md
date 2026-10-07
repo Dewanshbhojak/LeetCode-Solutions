@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0229-majority-element-ii](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0447-number-of-boomerangs) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0468-validate-ip-address](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0468-validate-ip-address) |
 | [0500-keyboard-row](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0500-keyboard-row) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1603-design-parking-system](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 ## Boyer–Moore Majority Vote Algorithm
