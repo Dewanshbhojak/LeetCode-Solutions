@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0096-unique-binary-search-trees](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0174-dungeon-game](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0174-dungeon-game) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0096-unique-binary-search-trees](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0173-binary-search-tree-iterator](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0096-unique-binary-search-trees](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0279-perfect-squares) |
