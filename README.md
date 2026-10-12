@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0403-frog-jump](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0403-frog-jump) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
 | [0093-restore-ip-addresses](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0491-non-decreasing-subsequences](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0797-all-paths-from-source-to-target](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0980-unique-paths-iii) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0279-perfect-squares) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0447-number-of-boomerangs](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0447-number-of-boomerangs) |
 | [0523-continuous-subarray-sum](https://github.com/Dewanshbhojak/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
